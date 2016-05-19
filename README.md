@@ -17,4 +17,4 @@ Step 4. In the unit test generate a UUID to use for the ID field.
 
 Step 1: Implement a very simple Rule processing engine. We have already provided the basic interface API.
 
-Step 2: Add a unit test to very quick test the rule engine.
+Step 2: Add a unit test to test the rules engine.
